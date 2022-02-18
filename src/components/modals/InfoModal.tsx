@@ -47,13 +47,12 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
       
        <p className="mt-6 italic text-sm text-gray-500 dark:text-gray-300">
-        This is an open source version of the word guessing game we all know and
-        love -{' '}
+        Woordel maak gebruik van oopbronkode soos oorsrponklik geskryg deur Hannah Parks. -{' '}
         <a
           href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
         >
-          check out the code here
+          Gaan die kode na
         </a>{' '}
       </p>
     </BaseModal>
