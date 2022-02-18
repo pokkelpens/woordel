@@ -1,0 +1,3 @@
+CI= npm run build
+REACT_APP_GAME_NAME=Woordel
+REACT_APP_GAME_DESCRIPTION=Jou daaglikse woordraaispel
