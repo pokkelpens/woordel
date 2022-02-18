@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+81e6ec14092c56e93b20daf126ae269baf210de9 refs/remotes/origin/add-code-of-conduct-1
+8c538ecada59152d55269791794abd0e8a402c1e refs/remotes/origin/add-license-1
+55b3da3d321b634427f767bc991e2baa3c20b38a refs/remotes/origin/develop
+5c1e045d8ec22caf52181d9b9965b5ac6b6547e3 refs/remotes/origin/first-visit-how-to
+1a4397c918e0c5835b039b1863e33fb64d659737 refs/remotes/origin/fix-layout
+68588014e3c5a7179890fa3a491fb90e2c07e43b refs/remotes/origin/fix-max-challenge-var
+555ba263c0928e0bc1318804fa214ef84b5b9708 refs/remotes/origin/main
+1fccfb7423429a6eaba0512f7af4d84d07ef0d2a refs/remotes/origin/move-about-button
+8120bdb835fc308b88f767ee9e1672586092d98f refs/remotes/origin/support-reveal-animation-for-n-length-guesses
